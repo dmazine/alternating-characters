@@ -1,0 +1,17 @@
+{
+  "name": "alternating-characters",
+  "version": "1.0.0",
+  "description": "HarckerRank Alternating Characters challenge solution",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Diego Rani Mazine",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
